@@ -14,4 +14,4 @@ Restart SSH server:
 # sh /etc/rc.d/sshd restart
 Restarting sshd.
 ```
-Becareful, user/password can not work anymore, only certificate authentication can, before do this, make sure create certificate authentication method first.
+Becareful, user/password can not work anymore, only certificate authentication can, before do this, make sure create [certificate authentication method](https://github.com/Dedimoe/sshd-create-certificate-authentification) first.
